@@ -1,5 +1,5 @@
 import React from "react";
-import { View } from "react-native";
+import { View, Text, Image, StyleSheet } from "react-native";
 
 const WeatherInfo = () => {
   return (
