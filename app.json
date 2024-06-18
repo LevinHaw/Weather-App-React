@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "experiments": {
-      "baseUrl": "/Weather-App-React"
+      "baseUrl": "/Weather-App-React/"
     },
     "splash": {
       "image": "./assets/splash.png",
